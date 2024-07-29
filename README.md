@@ -1,8 +1,9 @@
-# Games Paradise 🛍️
+# Games Paradise 🎮
 
 🚧 This project is being developed.
-## Technologies
+
+## Technologies🔧🔨
 
 This project was built using the following technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,chakraui,vite,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,vite,git)](https://skillicons.dev)
